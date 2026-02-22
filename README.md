@@ -40,5 +40,9 @@ While working on this project, I improved my understanding of:
 Download the `.pbix` file and open it using Power BI Desktop to explore the full interactive dashboard.
 
 ---
+## Dataset
+
+The dataset used in this project was taken from a public tutorial for learning purposes.
+
 
 This project was created as part of my learning and practice in data analytics.
